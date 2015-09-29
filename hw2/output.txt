@@ -1994,7 +1994,6 @@ Error: Hindsight guess=movie gold= confidence=0.6279292879359295
 Error: Hitler Meets Christ guess=movie gold= confidence=0.972836770569365
 Error: Home Sweet Home guess=movie gold= confidence=0.9993491759160803
 Error: Home VDO guess=movie gold= confidence=0.9433800673926079
-Accuracy: 0.0
 Error: Hopkins guess=movie gold= confidence=0.38185137880063985
 Error: Hot Latin Pussy Adventures 7 guess=movie gold= confidence=0.999861618690221
 Error: Hot Legs guess=movie gold= confidence=0.9277055507249649
