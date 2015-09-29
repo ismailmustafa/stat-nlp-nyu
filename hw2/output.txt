@@ -1992,7 +1992,6 @@ Error: Highway Melody guess=movie gold= confidence=0.7570166105993613
 Error: Hij & Julia guess=movie gold= confidence=0.9168092254584354
 Error: Hindsight guess=movie gold= confidence=0.5064641867062452
 Error: Hitler Meets Christ guess=movie gold= confidence=0.9452623555916314
-Accuracy: 0.0
 Error: Home Sweet Home guess=movie gold= confidence=0.9983178987176774
 Error: Home VDO guess=movie gold= confidence=0.9085955821851557
 Error: Hopkins guess=place gold= confidence=0.43658894418674665
